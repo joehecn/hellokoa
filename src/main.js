@@ -2,7 +2,7 @@
 'use strict'
 
 import Koa from 'koa'
-export const app = new Koa()
+export const app = new Koa();
 
 // response
 app.use(ctx => {
