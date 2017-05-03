@@ -1,6 +1,7 @@
 # hello koa
 
 [![Build Status](https://travis-ci.org/joehecn/hellokoa.svg?branch=master)](https://travis-ci.org/joehecn/hellokoa)
+[![Coverage Status](https://coveralls.io/repos/github/joehecn/hellokoa/badge.svg)](https://coveralls.io/github/joehecn/hellokoa)
 
 ## docker
 
