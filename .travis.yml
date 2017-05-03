@@ -5,5 +5,5 @@ node_js:
 script:
   - make tt-travis
 after_script:
-  - npm install --dev coveralls
-  - cat ./coverage/lcov.info | ./node_modules/.bin/coveralls
+  - npm install codecov
+  - ./node_modules/.bin/codecov
