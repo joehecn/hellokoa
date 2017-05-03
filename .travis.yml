@@ -1,6 +1,7 @@
 sudo: false
 language: node_js
 node_js:
+  - 6.10.2
   - 7.9
 script:
   - make tt-travis
