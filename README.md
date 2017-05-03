@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joehecn/hellokoa.svg?branch=master)](https://travis-ci.org/joehecn/hellokoa)
 [![codecov](https://codecov.io/gh/joehecn/hellokoa/branch/master/graph/badge.svg)](https://codecov.io/gh/joehecn/hellokoa)
+[![Code Climate](https://codeclimate.com/github/joehecn/hellokoa/badges/gpa.svg)](https://codeclimate.com/github/joehecn/hellokoa)
 [![Dependency Status](https://gemnasium.com/badges/github.com/joehecn/hellokoa.svg)](https://gemnasium.com/github.com/joehecn/hellokoa)
 
 ## docker
