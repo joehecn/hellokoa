@@ -1,5 +1,7 @@
 # hello koa
 
+[![Build Status](https://travis-ci.org/joehecn/hellokoa.svg?branch=master)](https://travis-ci.org/joehecn/hellokoa)
+
 ## docker
 
 ``` bash

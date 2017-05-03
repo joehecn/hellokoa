@@ -19,3 +19,12 @@ tt-cov:
 		-- -u exports \
 		$(TESTS) \
 		--bail
+
+tt-travis: lint
+	@./node_modules/.bin/babel-node \
+		./node_modules/.bin/istanbul cover \
+		./node_modules/.bin/_mocha \
+		--report lcovonly \
+		-- -u exports \
+		$(TESTS) \
+		--bail
